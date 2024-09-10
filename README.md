@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Genie&fontSize=70"/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/tellgeniewish/github-readme-stats)
 
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
