@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 📝[Tistory Link](https://tell-genie-wish.tistory.com/)
+
 📝[Velog Link](https://velog.io/@tellgeniewish/posts)
 
 <!--
