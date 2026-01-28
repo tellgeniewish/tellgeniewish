@@ -2,6 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Genie&fontSize=70"/>
 
+## 🚀 Overview
+- UMC 운영진 9기 2025.03 - 현재
+- UMC Server 8기 2025.03 - 2025.08
+- 화이트햇 스쿨 3기 2025.03 - 2025.09
+- 보안 동아리 Ping! 2025.01 - 2025.09
+- UMC Web 7기 2024.09 - 2024.11
+- 데이터 분석 동아리 혼동 2024.09 - 2025.02
+
 ## 🛠 Tech Stack
 
 ### Language
@@ -39,29 +47,20 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
-## 📞 Contact
-📧 Email: jadastras2@gmail.com
+## 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/tellgeniewish/github-readme-stats)
 
-📌 [My Projects View](https://www.notion.so/welcome-genie-page/Genie-Projects-2f6767a9f689802b9c9ef7b0cabd38d5?source=copy_link)
-
-## Overview
-- UMC 운영진 9기 2025.03 - 현재
-- UMC Server 8기 2025.03 - 2025.08
-- 화이트햇 스쿨 3기 2025.03 - 2025.09
-- 보안 동아리 Ping! 2025.01 - 2025.09
-- UMC Web 7기 2024.09 - 2024.11
-- 데이터 분석 동아리 혼동 2024.09 - 2025.02
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tellgeniewish&show_icons=true&theme=default)
 
 ## 📝 기술 블로그 링크
 ✍️ [Tistory Tech Blog Link로 연결됩니다.](https://tell-genie-wish.tistory.com/)
 
 💻 [Velog Tech Blog Link로 연결됩니다.](https://velog.io/@tellgeniewish/posts)
 
-## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/tellgeniewish/github-readme-stats)
+## 📞 Contact
+📧 Email: jadastras2@gmail.com
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tellgeniewish&show_icons=true&theme=default)
-
+📌 [My Projects View](https://www.notion.so/welcome-genie-page/Genie-Projects-2f6767a9f689802b9c9ef7b0cabd38d5?source=copy_link)
 <!--
 **tellgeniewish/tellgeniewish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
