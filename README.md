@@ -52,10 +52,10 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tellgeniewish&show_icons=true&theme=default)
 
-## 📝 기술 블로그 링크
-✍️ [Tistory Tech Blog Link로 연결됩니다.](https://tell-genie-wish.tistory.com/)
+## 📝 Tech Blog Link
+✍️ [Tistory 기술 블로그 링크로 연결됩니다.](https://tell-genie-wish.tistory.com/)
 
-💻 [Velog Tech Blog Link로 연결됩니다.](https://velog.io/@tellgeniewish/posts)
+💻 [Velog 기술 블로그 링크로 연결됩니다.](https://velog.io/@tellgeniewish/posts)
 
 ## 📞 Contact
 📧 Email: jadastras2@gmail.com
