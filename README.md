@@ -66,9 +66,9 @@
 ![Gabia](https://img.shields.io/badge/Gabia-D00000?style=flat-square)
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/tellgeniewish/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tellgeniewish&layout=compact)](https://github.com/tellgeniewish)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tellgeniewish&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tellgeniewish&show_icons=true&theme=radical)
 
 ## 📝 Tech Blog Link
 ✍️ [Tistory 기술 블로그 링크로 연결됩니다.](https://tell-genie-wish.tistory.com/)
