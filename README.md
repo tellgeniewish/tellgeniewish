@@ -10,6 +10,19 @@
 - UMC Web 7기 2024.09 - 2024.11
 - 데이터 분석 동아리 혼동 2024.09 - 2025.02
 
+## 💡 Featured Projects
+### 🏥 어디약 (PharmQuest) — Frontend
+- 의약품 정보 탐색을 돕는 웹 서비스
+- 조직 레포지토리 기반 팀 프로젝트로 참여
+- React 기반 반응형 UI 구현 및 사용자 흐름 개선에 기여  
+🔗 Repo: https://github.com/PharmQuest/FE
+
+### 🏘 동네방네 — Backend
+- 지역 기반 커뮤니티 서비스 백엔드
+- 조직 레포지토리 기반 협업 프로젝트
+- Spring Boot 기반 REST API 설계 및 핵심 비즈니스 로직 구현  
+🔗 Repo: https://github.com/dongnae-bangnae/BE
+
 ## 🛠 Tech Stack
 ### Language
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
