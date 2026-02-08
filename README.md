@@ -23,6 +23,12 @@
 - Spring Boot 기반 REST API 설계 및 핵심 비즈니스 로직 구현  
 🔗 Repo: https://github.com/dongnae-bangnae/BE
 
+### 🤖 HackLLM — LLM 기반 CTF 보안 연구
+- 화아트햇 스쿨 3기 LLM 보안 연구 프로젝트
+- 프롬프트 인젝션 시나리오 설계, 모델별 반응 비교 실험 및 시나리오 작성 수행
+- 조건 통제 및 결과 구조화 과정에서 정성·정량 분석 사고 경험  
+🔗 Repo: https://github.com/hanataba227/HackLLM
+
 ## 🛠 Tech Stack
 ### Language
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
