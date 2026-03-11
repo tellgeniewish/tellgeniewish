@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Genie&fontSize=70"/>
 
 ## 🚀 Overview
-- UMC 운영진 9기 2025.03 - 현재
+- UMC 운영진 9기 2025.03 - 2026.02
 - UMC Server 8기 2025.03 - 2025.08
 - 화이트햇 스쿨 3기 2025.03 - 2025.09
 - 보안 동아리 Ping! 2025.01 - 2025.09
@@ -11,16 +11,25 @@
 - 데이터 분석 동아리 혼동 2024.09 - 2025.02
 
 ## 💡 Featured Projects
-### 🏥 어디약 (PharmQuest) — Frontend
-- 해외에서 급하게 의약품 정보 탐색을 돕는 웹 서비스
-- 조직 레포지토리 기반 팀 프로젝트로 참여
-- React 기반 반응형 UI 구현 및 사용자 흐름 개선에 기여  
-🔗 Repo: https://github.com/PharmQuest/FE
+### 💬 버블리 (Verbly) — Backend Lead
+- AI 기반 글 교정 커뮤니티 서비스
+- 백엔드 팀장으로 프로젝트 아키텍처 설계 및 AWS 배포 환경 구축 등 개발 리딩
+- Spring Boot 기반 REST API 구현 및 사용자, 인증 시스템(JWT), SMS 인증 등 핵심 도메인 로직 개발  
+🔗 Repo: https://github.com/Verbly-Official/BE  
+[📝 버블리 후기](https://velog.io/@tellgeniewish/202526-UMC-SPRINGBOOT-Project-Verbly-AI-%EA%B8%B0%EB%B0%98-%EA%B8%80-%EA%B5%90%EC%A0%95-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B0%B1%EC%97%94%EB%93%9C-%ED%8C%80%EC%9E%A5-%ED%99%9C%EB%8F%99-%ED%9B%84%EA%B8%B0)
+
+### 📱 We Miss Classic iPhone — Personal Project
+- 구 아이폰 디자인을 그리워하는 사용자들의 공감을 집계하는 글로벌 투표 서비스
+- AI 기반 바이브 코딩 방식으로 개발한 개인 프로젝트
+- React + TypeScript 기반 프론트엔드 구현 및 다국어(ko/en/ja/zh) 지원 서비스 제작
+- 공감 버튼 기반 참여형 투표 기능과 SNS 공유 기능 구현  
+🔗 Repo: https://github.com/tellgeniewish/We-Miss-Classic-iPhone  
+[📝 We Miss Classic iPhone 후기](https://velog.io/@tellgeniewish/%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9%EC%9C%BC%EB%A1%9C-5%EC%8B%9C%EA%B0%84-%EB%A7%8C%EC%97%90-4%EA%B0%9C-%EA%B5%AD%EC%96%B4-%ED%88%AC%ED%91%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-We-Miss-Classic-iPhone-%EA%B0%9C%EB%B0%9C%EA%B8%B0-40dnae6o)
 
 ### 🏘 동네방네 — Backend
 - 지역 기반 커뮤니티 서비스
 - 조직 레포지토리 기반 협업 프로젝트
-- Spring Boot 기반 REST API 설계 및 핵심 비즈니스 로직 구현  
+- Spring Boot 기반 REST API 설계 및 회원 관리 등의 핵심 비즈니스 로직 구현  
 🔗 Repo: https://github.com/dongnae-bangnae/BE
 
 ### 🤖 HackLLM — LLM 기반 CTF 보안 연구
@@ -28,6 +37,12 @@
 - 프롬프트 인젝션 시나리오 설계, 모델별 반응 비교 실험 및 시나리오 작성 수행
 - 조건 통제 및 결과 구조화 과정에서 정성·정량 분석 사고 경험  
 🔗 Repo: https://github.com/hanataba227/HackLLM
+
+### 🏥 어디약 (PharmQuest) — Frontend
+- 해외에서 급하게 의약품 정보 탐색을 돕는 웹 서비스
+- 조직 레포지토리 기반 팀 프로젝트로 참여
+- React 기반 반응형 UI 구현 및 사용자 흐름 개선에 기여  
+🔗 Repo: https://github.com/PharmQuest/FE
 
 ## 🛠 Tech Stack
 ### Language
