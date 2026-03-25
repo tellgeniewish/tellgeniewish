@@ -33,7 +33,7 @@
 🔗 Repo: https://github.com/dongnae-bangnae/BE
 
 ### 🤖 HackLLM — LLM 기반 CTF 보안 연구
-- 화아트햇 스쿨 3기 LLM 보안 연구 프로젝트
+- 화이트햇 스쿨 3기 LLM 보안 연구 프로젝트
 - 프롬프트 인젝션 시나리오 설계, 모델별 반응 비교 실험 및 시나리오 작성 수행
 - 조건 통제 및 결과 구조화 과정에서 정성·정량 분석 사고 경험  
 🔗 Repo: https://github.com/hanataba227/HackLLM
