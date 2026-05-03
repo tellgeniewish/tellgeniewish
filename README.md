@@ -113,6 +113,15 @@
 📧 Email: jadastras2@gmail.com
 
 📌 [My Projects View](https://www.notion.so/welcome-genie-page/Genie-Projects-2f6767a9f689802b9c9ef7b0cabd38d5?source=copy_link)
+
+## 🟡 Pacman eats my daily GitHub contributions</h3>
+
+<img
+  src="https://raw.githubusercontent.com/tellgeniewish/tellgeniewish/output/pacman-contribution-graph-dark.svg?v=1"
+/>
+## Pac-Man Contribution Graph
+
+![pacman contribution graph](https://raw.githubusercontent.com/tellgeniewish/tellgeniewish/output/pacman-contribution-graph.svg)
 <!--
 **tellgeniewish/tellgeniewish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
