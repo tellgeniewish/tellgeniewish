@@ -16,7 +16,7 @@
 - 백엔드 팀장으로 프로젝트 아키텍처 설계 및 AWS 배포 환경 구축 등 개발 리딩
 - Spring Boot 기반 REST API 구현 및 사용자, 인증 시스템(JWT), SMS 인증 등 핵심 도메인 로직 개발  
 🔗 Repo: https://github.com/Verbly-Official/BE  
-[📝 버블리 후기](https://velog.io/@tellgeniewish/202526-UMC-SPRINGBOOT-Project-Verbly-AI-%EA%B8%B0%EB%B0%98-%EA%B8%80-%EA%B5%90%EC%A0%95-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B0%B1%EC%97%94%EB%93%9C-%ED%8C%80%EC%9E%A5-%ED%99%9C%EB%8F%99-%ED%9B%84%EA%B8%B0)
+[📝 버블리 후기](https://velog.io/@tellgeniewish/Verbly-AI-%EA%B8%B0%EB%B0%98-%EA%B8%80-%EA%B5%90%EC%A0%95-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EC%84%9C%EB%B9%84%EC%8A%A4)
 
 ### 📱 We Miss Classic iPhone — Personal Project
 - 구 아이폰 디자인을 그리워하는 사용자들의 공감을 집계하는 글로벌 투표 서비스
