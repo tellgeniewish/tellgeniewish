@@ -11,20 +11,22 @@
 - 데이터 분석 동아리 혼동 2024.09 - 2025.02
 
 ## 💡 Featured Projects
+### 📸 Pickly — PM · Product Design / Personal Development
+- 친구들의 스와이프 투표와 AI 분석으로 베스트컷을 찾는 사진 투표 서비스
+- 2026 MESH Hackathon에서 PM · Product Design을 맡아 문제 정의, 서비스 기획, 기능 명세 및 Figma 기반 UI/UX 설계 주도
+- 무박 15시간 팀 프로젝트로 시작한 서비스를 해커톤 종료 후 Lovable 기반 개인 개발로 이어서 발전
+- 사람들의 투표 반응, AI 분석 정보, 사진 위치 데이터를 연결하는 서비스 기획 및 사용자 흐름 설계  
+🔗 Personal Repo: [https://github.com/tellgeniewish/Pickly](https://github.com/tellgeniewish/Pickly)  
+🌐 Live Demo: [https://pickly-photo.lovable.app/](https://pickly-photo.lovable.app/)  
+👥 Hackathon Team Repo: [https://github.com/Pickly-Official](https://github.com/Pickly-Official)  
+📝 [2026 MESH Hackathon 후기](https://velog.io/@tellgeniewish/2026-MESH-Hackathon-%ED%9B%84%EA%B8%B0-Pickly-%EC%B9%9C%EA%B5%AC%EB%93%A4%EC%9D%98-%EC%8A%A4%EC%99%80%EC%9D%B4%ED%94%84%EC%99%80-AI%EB%A1%9C-%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%BB%B7%EC%9D%84-%EC%B0%BE%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EA%B8%B0feat.-%EB%AC%B4%EB%B0%95-15%EC%8B%9C%EA%B0%84-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
+  
 ### 💬 버블리 (Verbly) — Backend Lead
 - AI 기반 글 교정 커뮤니티 서비스
 - 백엔드 팀장으로 프로젝트 아키텍처 설계 및 AWS 배포 환경 구축 등 개발 리딩
 - Spring Boot 기반 REST API 구현 및 사용자, 인증 시스템(JWT), SMS 인증 등 핵심 도메인 로직 개발  
 🔗 Repo: https://github.com/Verbly-Official/BE  
 [📝 버블리 후기](https://velog.io/@tellgeniewish/Verbly-AI-%EA%B8%B0%EB%B0%98-%EA%B8%80-%EA%B5%90%EC%A0%95-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EC%84%9C%EB%B9%84%EC%8A%A4)
-
-### 📱 We Miss Classic iPhone — Personal Project
-- 구 아이폰 디자인을 그리워하는 사용자들의 공감을 집계하는 글로벌 투표 서비스
-- AI 기반 바이브 코딩 방식으로 개발한 개인 프로젝트
-- React + TypeScript 기반 프론트엔드 구현 및 다국어(ko/en/ja/zh) 지원 서비스 제작
-- 공감 버튼 기반 참여형 투표 기능과 SNS 공유 기능 구현  
-🔗 Repo: https://github.com/tellgeniewish/We-Miss-Classic-iPhone  
-[📝 We Miss Classic iPhone 후기](https://velog.io/@tellgeniewish/%EB%B0%94%EC%9D%B4%EB%B8%8C-%EC%BD%94%EB%94%A9%EC%9C%BC%EB%A1%9C-5%EC%8B%9C%EA%B0%84-%EB%A7%8C%EC%97%90-4%EA%B0%9C-%EA%B5%AD%EC%96%B4-%ED%88%AC%ED%91%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-We-Miss-Classic-iPhone-%EA%B0%9C%EB%B0%9C%EA%B8%B0-40dnae6o)
 
 ### 🏘 동네방네 — Backend
 - 지역 기반 커뮤니티 서비스
