@@ -102,11 +102,18 @@
 ![Gabia](https://img.shields.io/badge/Gabia-D00000?style=flat-square)
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tellgeniewish&layout=compact" width="34.5%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tellgeniewish&layout=compact&theme=radical"
+    width="32.8%"
+    alt="Top Languages"
+  />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tellgeniewish&show_icons=true&theme=radical" width="43%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tellgeniewish&show_icons=true&theme=radical"
+    width="43%"
+    alt="GitHub Stats"
+  />
 </p>
 
 ## 📝 Tech Blog Link
@@ -119,7 +126,7 @@
 
 📌 [My Projects View](https://www.notion.so/welcome-genie-page/Genie-Projects-2f6767a9f689802b9c9ef7b0cabd38d5?source=copy_link)
 
-## 🟡 Pacman eats my daily GitHub contributions</h3>
+## 🟡 Pacman eats my daily GitHub contributions
 <!-- <img
   src="https://raw.githubusercontent.com/tellgeniewish/tellgeniewish/output/pacman-contribution-graph-dark.svg?v=1"
 /> -->
