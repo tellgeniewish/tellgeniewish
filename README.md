@@ -65,45 +65,41 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
-### Database
+### Database & Cloud / Infra
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
 
-### GIS / Spatial Analysis
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![GeoJSON](https://img.shields.io/badge/GeoJSON-238B7D?style=flat-square&logo=json&logoColor=white)
-
-### Version Control / Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
-
-### Cloud / Infra
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon&logoColor=white)
 ![AWS VPC](https://img.shields.io/badge/AWS_VPC-232F3E?style=flat-square&logo=amazon&logoColor=white)
 ![Security Group](https://img.shields.io/badge/Security_Group-232F3E?style=flat-square&logo=amazon&logoColor=white)
 ![Elastic IP](https://img.shields.io/badge/Elastic_IP-232F3E?style=flat-square&logo=amazon&logoColor=white)
-
 ![IAM](https://img.shields.io/badge/IAM-232F3E?style=flat-square&logo=amazon&logoColor=white)
+
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazon&logoColor=white)
 ![Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazon&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-### OS / Environment
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white)
+### GIS / Spatial Analysis
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![GeoJSON](https://img.shields.io/badge/GeoJSON-238B7D?style=flat-square&logo=json&logoColor=white)
 
-### Platform
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+### Development & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
 
-### Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=datagrip&logoColor=white)
 
+### Tools & Environment
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)
