@@ -57,15 +57,16 @@
 | **Tools & Environment** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square) ![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white) |
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tellgeniewish&layout=compact&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tellgeniewish&layout=compact&theme=radical&cache_seconds=21600"
     width="32.7%"
     alt="Top Languages"
   />
   &nbsp;&nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api?username=tellgeniewish&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=tellgeniewish&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=21600&number_format=long"
     width="43%"
     alt="GitHub Stats"
   />
